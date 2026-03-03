@@ -1,0 +1,13 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 05db938..d562401 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,5 +1,3 @@[m
+[31m-<<<<<<< HEAD[m
+[31m-//add new feature - button//[m
+[31m-=======[m
+[31m-//add new feature - form//[m
+[31m->>>>>>> feature[m
+[32m+[m[32m//add new feature - button[m
+[41m+[m
+[41m+[m
